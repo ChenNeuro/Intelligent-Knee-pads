@@ -1,5 +1,5 @@
 function ab = quaternProd(a, b)
-%QUATERNPROD Calculates the quaternion product
+%QUATERNPROD Calculates the quaternion product 两个四元数的乘积，返回一个四元数
 %
 %   ab = quaternProd(a, b)
 %
